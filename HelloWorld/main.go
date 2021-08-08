@@ -5,6 +5,7 @@ package main
 
 import "fmt"
 
+// to dive into this pkg: https://pkg.go.dev/fmt
 //Imports are necessary to access  other packages
 
 func main() {
