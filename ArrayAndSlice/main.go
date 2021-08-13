@@ -15,7 +15,7 @@ func main() {
 
 	//We declare an array of strings
 	signs := [3]string{"Gemini", "Leo", "Cancer"}
-
+	//Print it
 	for i, signs := range signs {
 		fmt.Println(i, signs)
 	}
